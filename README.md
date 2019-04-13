@@ -1,5 +1,7 @@
 # Unidirectional
-see my article from https://nicuflorica.blogspot.com/2019/04/comunicare-unidirectionala-intre-2.html
+see my articles from
+- https://arduinotehniq.blogspot.com/2019/04/unidirectional-communcation-between-2.html & 
+- https://nicuflorica.blogspot.com/2019/04/comunicare-unidirectionala-intre-2.html
 
 ![base schematic](https://4.bp.blogspot.com/-irzezFfBnsQ/XLGjJ0eW8II/AAAAAAAAZDE/oROuKfRJUq0ZAKkt8E7z5RFEWfWBb-n2ACLcBGAs/s1600/tx_rx_2Arduinos.png)
 
