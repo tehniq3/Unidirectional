@@ -54,21 +54,21 @@ void loop() {
     {
       Serial.println("---");
       digitalWrite(led3, HIGH);
-      delay(500);
+      delay(100);
       digitalWrite(led3, LOW);
     }
   if(inputString.indexOf("command4")>=0)
     {
       Serial.println("-----");
       digitalWrite(led4, HIGH);
-      delay(500);
+      delay(100);
       digitalWrite(led4, LOW);
     }
   if(inputString.indexOf("command5")>=0)
     {
       Serial.println("------");
       digitalWrite(led5, HIGH);
-      delay(500);
+      delay(100);
       digitalWrite(led5, LOW);
     }
        
